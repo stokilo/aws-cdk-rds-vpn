@@ -1,0 +1,14 @@
+/aws-training-cdk.iml
+/.idea/
+/cdk.context.json
+/cdk.out/
+/target/
+/lambda/target/
+/lambda/dependency-reduced-pom.xml
+/cdk/target/
+/lambda/out/
+/cdk/cdk.out/
+/cdk/aws-cdk-rds-vpn-app.iml
+/lambda/aws-cdk-rds-vpn-lambda.iml
+/env.properties
+/*.iml
